@@ -6,9 +6,10 @@ Calculates heterodimers for sets of oligonucleotides.
   
 ## Technologies/Dependencies: 
 Project was created with:
-python 3.8.5
-primer3-py 0.6.1
+biopython 1.77
 pandas 1.1.1
+primer3-py 0.6.1
+python 3.8.5
 
 ## Use:
 To run this script, a .fasta file containing all sequences to be analyzed is required.  
